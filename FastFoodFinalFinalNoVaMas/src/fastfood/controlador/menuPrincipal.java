@@ -11,4 +11,9 @@ package fastfood.controlador;
  */
 public class menuPrincipal {
     
+    public menuPrincipal(){
+        
+        System.out.print("Prueba de modificaciones en Git");
+    }
+    
 }
