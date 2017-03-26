@@ -14,6 +14,7 @@ public class menuPrincipal {
     public menuPrincipal(){
         
         System.out.print("Prueba de modificaciones en Git");
+        System.out.print("Vamos a modificar desde Github y vamos a hace un pull en nuestro netbeans");
     }
     
 }
