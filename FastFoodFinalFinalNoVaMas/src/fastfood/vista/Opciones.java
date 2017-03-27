@@ -164,19 +164,19 @@ public class Opciones extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jLabel8MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel8MouseClicked
-       menuPrincipal obj = new menuPrincipal();
+       MenuPrincipal obj = new MenuPrincipal();
         obj.setVisible(true);
         this.dispose();
         
     }//GEN-LAST:event_jLabel8MouseClicked
 
     private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
-        actualizarMetodo obj2 = new actualizarMetodo();
+        ActualizarMetodo obj2 = new ActualizarMetodo();
         obj2.setVisible(true);
     }//GEN-LAST:event_jButton3ActionPerformed
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
-        actualizarMetodo obj3 = new actualizarMetodo();
+        ActualizarMetodo obj3 = new ActualizarMetodo();
         obj3.setVisible(true);
     }//GEN-LAST:event_jButton4ActionPerformed
 

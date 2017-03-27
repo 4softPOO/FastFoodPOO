@@ -105,13 +105,13 @@ public class Login extends javax.swing.JFrame {
     }//GEN-LAST:event_usuActionPerformed
 
     private void jLabel4MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel4MouseClicked
-       menuPrincipal obj = new menuPrincipal();
+       MenuPrincipal obj = new MenuPrincipal();
        obj.setVisible(true);
        this.dispose();
     }//GEN-LAST:event_jLabel4MouseClicked
 
     private void jLabel6MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel6MouseClicked
-       registro obj2 = new registro();
+       Registro obj2 = new Registro();
         obj2.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_jLabel6MouseClicked
