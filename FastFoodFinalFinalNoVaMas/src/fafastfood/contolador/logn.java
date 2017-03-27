@@ -3,19 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package fastfood.controlador;
+package fafastfood.contolador;
 
 /**
  *
- * @author COlo
+ * @author Paua
  */
-public class MenuPrincipal {
-    
-    public MenuPrincipal(){
-        
-        
-        System.out.print("Prueba de modificaciones en Git");
-        
-    }
+public class logn {
     
 }
